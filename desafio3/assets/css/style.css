@@ -1,0 +1,12 @@
+.rectangulo_rojo{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    border: 2px solid grey;
+}
+
+.rectangulo_amarillo{
+    background-color: yellow;
+    width: 100px;
+    height: 25px;
+}
